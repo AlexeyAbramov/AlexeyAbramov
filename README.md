@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexeyAbramov
 - 👀 I’m interested in web-development.
 - 🌱 I’m currently learning Typescript, (and improving my skills in React/Redux).
-- 📫 How to reach me : telegram: @AAbramov
+- 📫 How to reach me : telegram - @AAbramov
 
 <!---
 AlexeyAbramov/AlexeyAbramov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
