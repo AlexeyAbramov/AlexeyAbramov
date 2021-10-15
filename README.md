@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AlexeyAbramov
 - 👀 I’m interested in web-development.
+- ⚛️ Currently I’m working on React.
 - 🌱 I’m currently learning Typescript, (and improving my skills in React/Redux).
 - 📫 How to reach me : telegram - @AAbramov
 
